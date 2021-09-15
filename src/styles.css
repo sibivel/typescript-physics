@@ -1,8 +1,7 @@
 body {
-  background: black;
+  background: rgb(70, 70, 70);
 }
 
 #canvas {
-  width: 1000px;
-  height: 1000px;
+
 }
